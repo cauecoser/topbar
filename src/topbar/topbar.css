@@ -1,0 +1,6 @@
+.divbloco {
+    background-color: chartreuse;
+    margin: auto;
+    display: flex;
+    gap: 20px;
+}

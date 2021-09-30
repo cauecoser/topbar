@@ -1,0 +1,12 @@
+#linktopbar {
+    color: rgb(50,50,50);
+    font-weight: 600;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+
+* {
+    border: solid;
+    border-width: 1px;
+}
